@@ -1,2 +1,1 @@
-# fintools-data-vault
-Main database for fintools package
+# fintools-root-database
